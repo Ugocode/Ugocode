@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ugocode   :octocat:
+### Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ugocode   :octocat: 
 
 ![Header](ugo-banner.png)
 
@@ -8,7 +8,7 @@ I am a software developer / data scientist who is passionate about creating tech
 
 I am from Nigeria 🇳🇬 
 
-I have a passion for learning and sharing my knowledge, I have built and designed websites for companies, government organisations and individuals. I have done lots of work in Data Science finding solutions to business problems which you can find some here in my repositories. I am currently working with Flutter to create crossplatform apps that solves real world problems and gives people joy. 
+I have a passion for learning and sharing my knowledge, I have built and designed websites for companies, government organisations and individuals. I have done lots of work in Data Science finding solutions to business problems which you can find some here in my repositories. I am currently working with Flutter  to create crossplatform apps that solves real world problems and gives people joy. 
 
 When I am not building or learning new stuff I love watching musical vidoes or doing some outdoor fun stuff
 
@@ -21,17 +21,17 @@ When I am not building or learning new stuff I love watching musical vidoes or d
 
 ## Technologies I love to work with 🔥
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=Linux&logoColor=white&color=important) ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Code-Dart-informational?style=plastic&logo=Dart&logoColor=white&color=9cf) ![](https://img.shields.io/badge/Code-Flutter-informational?style=plastic&logo=Flutter&logoColor=white&color=informational) ![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=plastic&logo=Intellij-Idea&logoColor=white&color=success) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=blue) ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=plastic&logo=Firebase&logoColor=white&color=orange) ![](https://img.shields.io/badge/FrameWrok-Django-informational?style=plastic&logo=Django&logoColor=white&color=yellow)  ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=PostgreSQL&logoColor=white&color=green)  ![](https://img.shields.io/badge/Notebook-Jupyter_Notebook-informational?style=plastic&logo=Jupyter-notebook&logoColor=white&color=yellow)   
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=Linux&logoColor=white&color=important) ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Code-Dart-informational?style=plastic&logo=Dart&logoColor=white&color=9cf) ![](https://img.shields.io/badge/Code-Flutter-informational?style=plastic&logo=Flutter&logoColor=white&color=informational) ![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=plastic&logo=Intellij-Idea&logoColor=white&color=success) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=blue) ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=plastic&logo=Firebase&logoColor=white&color=orange) ![](https://img.shields.io/badge/FrameWrok-Django-informational?style=plastic&logo=Django&logoColor=white&color=yellow)  ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=PostgreSQL&logoColor=white&color=green)  ![](https://img.shields.io/badge/Notebook-Jupyter_Notebook-informational?style=plastic&logo=Jupyter-notebook&logoColor=white&color=yellow)   ![](https://img.shields.io/badge/Web-HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=red)  
 
 
 
 ## Social Media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ugocode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ugocode/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ugocode/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ugo_starboy)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ugocode)  &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ugocode/)   &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ugocode/) &nbsp;&nbsp;    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ugo_starboy)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>   <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>   <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ugocode)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ugocode)](https://github.com/ugocode/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/Ugocode)  
 
@@ -84,6 +84,9 @@ to arrange repo card:
 
 //
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+
+(![github](/images/icon.png))
 
 
 
