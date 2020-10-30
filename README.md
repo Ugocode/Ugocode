@@ -18,6 +18,43 @@ When I am not building or learning new stuff I love watching musical vidoes or d
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugocode&layout=compact)](https://github.com/Ugocode/github-readme-stats)
 
 
+## Technologies I love to work with 
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=Linux&logoColor=white&color=important) ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=yellow) ![](https://img.shields.io/badge/Code-Dart-informational?style=plastic&logo=Dart&logoColor=white&color=9cf) ![](https://img.shields.io/badge/Code-Flutter-informational?style=plastic&logo=Flutter&logoColor=white&color=informational) ![](https://img.shields.io/badge/Editor-Intellij_IDEA-informational?style=plastic&logo=Intellij-Idea&logoColor=white&color=success) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=blue) ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=plastic&logo=Firebase&logoColor=white&color=orange) ![](https://img.shields.io/badge/FrameWrok-Django-informational?style=plastic&logo=Django&logoColor=white&color=yellow)  ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=plastic&logo=PostgreSQL&logoColor=white&color=green)  ![](https://img.shields.io/badge/Notebook-Jupyter_Notebook-informational?style=plastic&logo=Jupyter-notebook&logoColor=white&color=yellow)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Ugocode/Ugocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +62,23 @@ Here are some ideas to get you started:
 
 All inbuilt themes :-
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+to arrange repo card:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+//
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
