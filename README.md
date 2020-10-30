@@ -13,9 +13,11 @@ I have a passion for learning and sharing my knowledge, I have built and designe
 When I am not building or learning new stuff I love watching musical vidoes or doing some outdoor fun stuff
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ugocode&hide=prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/ugocode/github-readme-stats)
+[![Ugocode's github stats](https://github-readme-stats.vercel.app/api?username=Ugocode&hide=prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/ugocode/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugocode&hide=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugocode&layout=compact)](https://github.com/Ugocode/github-readme-stats)
+
+
 <!--
 **Ugocode/Ugocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
