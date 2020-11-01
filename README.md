@@ -10,9 +10,11 @@ I am from Nigeria 🇳🇬
 
 I have a passion for learning and sharing my knowledge, I have built and designed websites for companies, government organisations and individuals. I have done lots of work in Data Science finding solutions to business problems which you can find some here in my repositories. I am currently working with Flutter  to create crossplatform apps that solves real world problems and gives people joy. 
 
+You can see a little of my works on https://ugocode.pythonanywhere.com/
+
 When I am not building or learning new stuff I love watching musical vidoes or doing some outdoor fun stuff
 
-##                Stats ✨  
+##            Stats ✨  
 
 [![Ugocode's github stats](https://github-readme-stats.vercel.app/api?username=Ugocode&hide=prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/ugocode/github-readme-stats)
 
@@ -44,18 +46,6 @@ When I am not building or learning new stuff I love watching musical vidoes or d
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ugocode)  
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
