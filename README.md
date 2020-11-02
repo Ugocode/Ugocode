@@ -6,6 +6,8 @@
 
 I am a software developer / data scientist who is passionate about creating technology to improve lives and economies. 
 
+I love solving problems.
+
 I am from Nigeria 🇳🇬 
 
 I have a passion for learning and solving programming problems, I have built and designed websites for companies, government organisations and individuals. I have done lots of work in Data Science finding solutions to business problems which you can find some here in my repositories. I am currently working with Flutter  to create crossplatform apps that solves real world problems and gives people joy. 
