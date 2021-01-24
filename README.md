@@ -1,6 +1,6 @@
 ### Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ugocode &nbsp; :octocat: 
 
-![Header](ugo-banner.png)
+<!--![Header](ugo-banner.png)-->
 
 
 
