@@ -6,7 +6,7 @@
 
 I am a software developer / data scientist who is passionate about creating technology to improve lives and economies. 
 
-I love solving problems.
+I love solving  programing challenges.
 
 I am from Nigeria 🇳🇬 
 
