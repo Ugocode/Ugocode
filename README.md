@@ -12,7 +12,7 @@ I love solving  programing challenges.
 
 I have a passion for learning and solving programming problems, I have built and designed websites for companies, government organisations and individuals. I have done lots of work in Data Science finding solutions to business problems which you can find some here in my repositories. I am currently working with Flutter  to create crossplatform apps that solves real world problems and gives people joy. 
 
-You can see a little of my web works on [https://ugocode.pythonanywhere.com/](https://ugocode.netlify.app/#/)
+You can see a little of my web works on [https://ugocode.netlify.app/#/](https://ugocode.netlify.app/#/)
 
 When I am not building or learning new stuff I love watching musical vidoes or doing some outdoor fun stuff
 
