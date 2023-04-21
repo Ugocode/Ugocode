@@ -20,7 +20,7 @@ When I am not building or learning new stuff I love watching musical vidoes or d
 
 <!--[![Ugocode's github stats](https://github-readme-stats.vercel.app/api?username=Ugocode&hide=prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/ugocode/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugocode&layout=compact)](https://github.com/Ugocode/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugocode&layout=compact)](https://github.com/Ugocode/github-readme-stats)-->
 
 
 ## Technologies I love to work with 🔥
