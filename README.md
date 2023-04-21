@@ -18,7 +18,7 @@ When I am not building or learning new stuff I love watching musical vidoes or d
 
 ##            Stats ✨  
 
-[![Ugocode's github stats](https://github-readme-stats.vercel.app/api?username=Ugocode&hide=prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/ugocode/github-readme-stats)
+<!--[![Ugocode's github stats](https://github-readme-stats.vercel.app/api?username=Ugocode&hide=prs&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/ugocode/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugocode&layout=compact)](https://github.com/Ugocode/github-readme-stats)
 
@@ -31,7 +31,7 @@ When I am not building or learning new stuff I love watching musical vidoes or d
 
 ## Social Media
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ugocode)  &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ugochukwu-obioha/)   &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ugocode/) &nbsp;&nbsp;    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ugo_starboy) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ugocode)  &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ugochukwu-obioha/)   &nbsp;&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ugocode/) &nbsp;&nbsp;    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ugo_starboi) 
 
 
 
@@ -43,11 +43,11 @@ When I am not building or learning new stuff I love watching musical vidoes or d
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/Ugocode) 
+<!--![GitHub metrics](https://metrics.lecoq.io/Ugocode) -->
 
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ugocode)  
+<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ugocode) --> 
 
 
 
