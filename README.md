@@ -40,16 +40,19 @@ Whenever I'm not building or learning new technologies, I love watching musical 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ugocode)](https://github.com/ugocode/github-profile-trophy)
 
 
-   ###  Please show some ❤️ by Starring some of the repositories.
+   
 
 <!--![GitHub metrics](https://metrics.lecoq.io/Ugocode) -->
 
 
 
-<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ugocode) --> 
+
+<!--![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ugocode) -->
 
 
 
+
+###  Please show some ❤️ by Starring some of the repositories.
 
 
 
