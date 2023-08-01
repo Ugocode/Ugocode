@@ -4,17 +4,15 @@
 
 
 
-I am a software developer / data scientist who is passionate about creating technology to improve lives and economies. 
-
-I love solving  programing challenges.
+I am a Flutter developer and a technical writer. I do a little bit of data science work sometimes. I am passionate about creating technology to improve lives and economies. 
 
 <!--I am from Nigeria 🇳🇬--> 
 
-I have a passion for learning and solving programming problems, I have built and designed websites for companies, government organisations and individuals. I have done lots of work in Data Science finding solutions to business problems which you can find some here in my repositories. I am currently working with Flutter  to create crossplatform apps that solves real world problems and gives people joy. 
+I have a passion for learning and solving programming problems. 
 
-You can see a little of my web works on [https://ugocode.netlify.app/#/](https://ugocode.netlify.app/#/)
+You can find some of my mobile and web design projects here and on [https://ugocode.netlify.app/#/](https://ugocode.netlify.app/#/)
 
-When I am not building or learning new stuff I love watching musical vidoes or doing some outdoor fun stuff
+Whenever I'm not building or learning new technologies, I love watching musical videos or catching outdoor fun.
 
 ##            Stats ✨  
 
