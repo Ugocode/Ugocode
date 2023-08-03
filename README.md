@@ -52,7 +52,7 @@ Whenever I'm not building or learning new technologies, I love watching musical 
 
 
 
-###  Please show some ❤️ by Starring some of the repositories.
+###  Please show some ❤️ by Starring some of the repositories here.
 
 
 
