@@ -4,7 +4,7 @@
 
 
 
-I am a Software Engineering Master's Student in Berlin. I am passionate about creating technologies to improve lives and economies. 
+I am a Software Engineering Master's Student in Germany. I am passionate about creating technologies to improve lives and economies. 
 
 <!--I am from Nigeria 🇳🇬--> 
 
