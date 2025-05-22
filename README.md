@@ -4,7 +4,7 @@
 
 
 
-I am a Flutter developer and a technical writer. I do a little bit of data science work sometimes. I am passionate about creating technology to improve lives and economies. 
+I am a Software Engineering Master's Student in Berlin. I am passionate about creating technologies to improve lives and economies. 
 
 <!--I am from Nigeria 🇳🇬--> 
 
@@ -12,7 +12,7 @@ I have a passion for learning and solving programming problems.
 
 You can find some of my mobile and web design projects here and on [https://ugocode.netlify.app/#/](https://ugocode.netlify.app/#/)
 
-Whenever I'm not building or learning new technologies, I love watching musical videos or catching outdoor fun.
+Whenever I'm not building or learning new technologies, I love watching musical videos or having outdoor fun.
 
 ##            Stats ✨  
 
@@ -52,7 +52,7 @@ Whenever I'm not building or learning new technologies, I love watching musical 
 
 
 
-###  Please show some ❤️ by Starring some of the repositories here.
+###  Please show some ❤️ by starring some of the repositories here.
 
 
 
